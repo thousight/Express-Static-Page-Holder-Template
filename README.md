@@ -1,4 +1,7 @@
 # Express-Static-Page-Holder-Template
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/thousight/Express-Static-Page-Holder-Template.svg)](https://greenkeeper.io/)
+
 A express.js template for holding static html css javascript
 
 ### Getting Started
